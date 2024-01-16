@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi there, I'm <a href="https://t.me/DazaiVan" target="_blank">Ivan</a> 
-<img src="https://github.com/DazaiOsamu2111/DazaiOsamu2111/blob/main/Магическая%20битва%20(16).gif" height="32"/></h1>
+<!--<img src="https://github.com/DazaiOsamu2111/DazaiOsamu2111/blob/main/Магическая%20битва%20(16).gif" height="32"/>-->
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=312507661658312424" height="714" width="345" frameborder="0" scrolling="no" ></iframe>
+</h1>
 <h3 align="center">A web developer who is currently part of the programming team for the creation of the IIoT platform.</h3>
 <div height="100"  text-align="center"><img  src="https://github.com/DazaiOsamu2111/DazaiOsamu2111/blob/main/74.jpg"/></div>
 
