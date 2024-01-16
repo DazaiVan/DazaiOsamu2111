@@ -3,7 +3,9 @@
 <img src="https://github.com/DazaiOsamu2111/DazaiOsamu2111/blob/main/aniyuki-hello-15.gif" height="80"/></h1>
 
 <h3 align="center">A web developer who is currently part of the programming team for the creation of the IIoT platform.</h3>
-<div height="100"  text-align="center"><img  src="https://github.com/DazaiOsamu2111/DazaiOsamu2111/blob/main/godzho-gifka-1.gif"/></div>
+<!--<div height="100"  text-align="center"><img  src="https://github.com/DazaiOsamu2111/DazaiOsamu2111/blob/main/godzho-gifka-1.gif"/></div>-->
+<video width="420" height="240" controls autoplay muted id="videoId">
+  <source src="https://whatsaper.ru/wp-content/uploads/2019/05/whatsaper.ru-9-мая-день-победы.-Видео-поздравления..mp4" type="video/mp4"></video>
 <!--
 **DazaiOsamu2111/DazaiOsamu2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
