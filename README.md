@@ -4,6 +4,7 @@
 
 <h3 align="center">A web developer who is currently part of the programming team for the creation of the IIoT platform.</h3>
 <div id="2111" style="
+color:red;
     text-align: center;
 "><img  src="https://github.com/DazaiOsamu2111/DazaiOsamu2111/blob/main/icegif-744.gif"/></div>
 <!--
