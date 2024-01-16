@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi there, I'm <a href="https://t.me/DazaiVan" target="_blank">Ivan</a> 
 <img src="https://github.com/DazaiOsamu2111/DazaiOsamu2111/blob/main/DazaiOsamu.jpg" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
