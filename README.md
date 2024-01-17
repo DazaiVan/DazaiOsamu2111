@@ -4,7 +4,7 @@
 
 <h3 align="center">A web developer who is currently part of the programming team for the creation of the IIoT platform.</h3>
 <div id="2111" textAlign="center"><img  src="https://github.com/DazaiOsamu2111/DazaiOsamu2111/blob/main/godzho-gifka-1.gif"/></div>
-<div id="" textAlign="center"><img  src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=2077)"/></div>
+<div id="" textAlign="center"><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=2077"/></div>
 <!--
 **DazaiOsamu2111/DazaiOsamu2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/DazaiOsamu2111/DazaiOsamu2111/blob/main/godzho-gifka-1.gif
