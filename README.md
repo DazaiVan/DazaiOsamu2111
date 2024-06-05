@@ -3,7 +3,7 @@
 <img src="https://github.com/DazaiVan/DazaiOsamu2111/blob/main/aniyuki-hello-15.gif" height="80"/></h1>
 
 <h3 align="center">A web developer who is currently part of the programming team for the creation of the IIoT platform.</h3>
-<div id="2111" textAlign="center"><img  src="https://github.com/DazaiVan/DazaiOsamu2111/blob/main/godzho-gifka-1.gif"/></div>
+<!-- <div id="2111" textAlign="center"><img  src="https://github.com/DazaiVan/DazaiOsamu2111/blob/main/godzho-gifka-1.gif"/></div> -->
 
 <h1 align="center">They are often used:</h1>
 <div align="center">
